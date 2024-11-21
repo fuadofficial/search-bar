@@ -1,8 +1,8 @@
+# 🔍 React Search Bar Sample
 ![Document - Google Chrome 9_1_2024 1_45_53 PM](https://github.com/user-attachments/assets/16089d9f-54fa-4d5d-ae61-d359d30810d6)
 
 
 
-# 🔍 React Search Bar Sample
 
 
 
