@@ -7,16 +7,6 @@
 
 
 
-# vercel 
-
-
-
-
-https://vercel.com/new/ahmad-fuads-projects/success?developer-id=&external-id=&redirect-url=&branch=master&deploymentUrl=search-hr8ddiiqd-ahmad-fuads-projects.vercel.app&projectName=search-bar&s=https%3A%2F%2Fgithub.com%2Ffuadofficial%2Fsearch-bar&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
-
-
-
-
 
 
 A simple and effective search bar component built with React, designed to filter and display results based on user input.
